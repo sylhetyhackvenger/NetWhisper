@@ -3,8 +3,6 @@
   <img src="assets/1.png" alt="Banner 1" width="100%">
 </p>
 
-Advanced Phishing Domain Scanner & Threat Intelligence Platform
-
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0_ULTIMATE-red" alt="Version"/>
   <img src="https://img.shields.io/badge/Python-3.8+-blue" alt="Python"/>
@@ -14,9 +12,12 @@ Advanced Phishing Domain Scanner & Threat Intelligence Platform
   <img src="https://img.shields.io/badge/Architecture-Modular-orange" alt="Architecture"/>
 </p>
 
+# Advanced Phishing Domain Scanner & Threat Intelligence Platform with 100+ Permutation Techniques
+
+NetWhisper Ultimate is an enterprise-grade cybersecurity tool that employs 106 advanced domain fuzzing techniques to detect phishing domains, typosquatting attempts, and brand impersonation threats before malicious actors can weaponize them. The platform features a sophisticated multi-layered architecture with parallel processing, intelligent threat scoring, visual similarity analysis via pHash, content fingerprinting using SSDEEP/TLSH, and comprehensive reconnaissance including DNS resolution, WHOIS lookups, GeoIP mapping, SSL certificate validation, and MX spy detection. Designed for security professionals, threat hunters, and incident responders, NetWhisper delivers real-time color-coded threat intelligence with configurable multi-threaded scanning and flexible JSON/CSV/TXT reporting. Its modular design supports seamless integration with SIEM systems, making it an essential component of modern security operations centers for proactive domain threat hunting and brand protection.
 ---
 
-🏗️ Digital Architecture Simulator
+🏗️ Digital Architecture 
 
 NetWhisper Ultimate features a comprehensive Digital Architecture Simulator that visualizes the complete threat detection pipeline and system architecture in real-time. This advanced simulation engine provides deep insights into how the platform processes, analyzes, and correlates threat intelligence data.
 
