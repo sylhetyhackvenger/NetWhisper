@@ -437,8 +437,8 @@ Linux / Kali Linux
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netwhisper-ultimate.git
-cd netwhisper-ultimate
+git clone https://github.com/sylhetyhackvenger/NetWhisper
+cd NetWhisper
 
 # Install required dependencies
 pip3 install -r requirements.txt
@@ -453,8 +453,8 @@ Termux (Android)
 pkg update && pkg upgrade
 pkg install python git
 pip install --upgrade pip
-git clone https://github.com/yourusername/netwhisper-ultimate.git
-cd netwhisper-ultimate
+git clone https://github.com/sylhetyhackvenger/NetWhisper
+cd NetWhisper
 pip install -r requirements.txt
 ```
 
@@ -653,9 +653,7 @@ Development Setup
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/netwhisper-ultimate.git
-cd netwhisper-ultimate
-
+git clone https://github.com/sylhetyhackvenger/NetWhisper
 # Create virtual environment
 python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -681,7 +679,7 @@ SYLHETYHACKVENGER (THE-ERROR808)
 
 🙏 Acknowledgments
 
-· The cybersecurity community for research contributions
+· The cybersecurity community for research co ntributions
 · Open-source libraries and their maintainers
 · DNS, security, and penetration testing communities
 
